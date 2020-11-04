@@ -1,6 +1,6 @@
 # 搭建DuckChat（鸭信） – 一款简单好用的聊天系统
 
-2020年2月26日*11:14:06*[ 7](https://www.daniao.org/8303.html#comments) 8,519 940字阅读3分8秒
+2020年2月26日*11:14:06*-[来自大鸟博客](https://www.daniao.org/8303.html#comments) 8,519 940字阅读3分8秒
 
 
 
